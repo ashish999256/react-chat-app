@@ -1,0 +1,63 @@
+/* Add a nice gradient background */
+body {
+  background: linear-gradient(to bottom right, #247c6d, #4e4376);
+  }
+  
+  /* Change the font to a more interesting option */
+  body {
+  font-family: "Poppins", sans-serif;
+  }
+  
+  /* Add a bit of spacing and color to code blocks */
+  code {
+  font-family: "Fira Code", monospace;
+  background: #2525ca;
+  color: #f8f8f2;
+  padding: 0.10rem;
+  border-radius: 0.35rem;
+  }
+  
+  /* Add a nice shadow effect to the body */
+  body {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Adjust the font size for better readability */
+  body {
+  font-size: 16px;
+  line-height: 1.5;
+  }
+  
+  /* Add some padding to the body to make sure content doesn't touch the edges of the screen */
+  body {
+  padding: 2rem;
+  }
+  
+  /* Add some subtle animation to code blocks */
+  code {
+  transition: all 0.2s ease-in-out;
+  }
+  code:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Make links stand out a bit more */
+  a {
+  color: #fff;
+  text-decoration: underline;
+  }
+  a:hover {
+  color: #ff0;
+  }
+  
+  /* Add a bit of color to headings */
+  h1, h2, h3, h4, h5, h6 {
+  color: #f8f8f2;
+  border-bottom: 1px solid #f8f8f2;
+  }
+  
+  /* Make the border on headings thicker on hover */
+  h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
+  border-bottom-width: 2px;
+  }
