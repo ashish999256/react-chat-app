@@ -5,7 +5,7 @@ width: 100%;
 }
 /* Add a nice gradient background */
 body {
-  background: linear-gradient);
+  background: linear-gradient;
   animation: background-animation 10s ease-in-out infinite alternate;
   }
   
