@@ -1,6 +1,12 @@
+.img{
+height: 100% ;
+width: 100%;
+
+}
 /* Add a nice gradient background */
 body {
-  background: linear-gradient(to bottom right, #247c6d, #4e4376);
+  background: linear-gradient);
+  animation: background-animation 10s ease-in-out infinite alternate;
   }
   
   /* Change the font to a more interesting option */
@@ -61,3 +67,5 @@ body {
   h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
   border-bottom-width: 2px;
   }
+  
+  
