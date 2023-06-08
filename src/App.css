@@ -147,7 +147,7 @@ section .form {
   border-right: 5px solid var(--color-2);
   border-width: 0px;
   overflow-y: 10px;
-  opacity: 100%;
+  
 }
 
 /* Customize scrollbar */
