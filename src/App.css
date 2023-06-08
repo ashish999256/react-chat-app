@@ -204,7 +204,7 @@ section .form {
   position: relative;
   width: 100%;
   background-image: url("four.jpg");
-  opacity: 60%;
+  
 }
 .messages_user {
   padding: 5px;
